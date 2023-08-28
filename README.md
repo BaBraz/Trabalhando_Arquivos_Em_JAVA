@@ -1,5 +1,4 @@
 # Trabalhando_Arquivos_Em_JAVA
-Claro, vou ajudá-lo a criar um README para o seu código Java. Aqui está um exemplo de README que descreve o propósito do código e como usá-lo:
 
 ```markdown
 # Criador de Arquivos e Diretórios em Java
@@ -40,12 +39,4 @@ Este é um simples programa Java que permite criar arquivos e diretórios em um 
 
 Sinta-se à vontade para contribuir com melhorias ou correções neste projeto. Basta criar um fork do repositório, fazer as alterações desejadas e enviar um pull request.
 
-## Licença
-
-Este projeto é distribuído sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter mais informações.
-
 ```
-
-Lembre-se de substituir `<SeuNome>` e `<SeuEmail>` no arquivo de licença (caso você tenha um arquivo `LICENSE`) pelo seu nome e e-mail, e certifique-se de que a estrutura de diretórios e os nomes dos arquivos no seu projeto correspondam ao que está descrito no README.
-
-Este README fornecerá informações básicas sobre como usar seu código e incentivará os outros a contribuir, se desejarem. Certifique-se de atualizar ou personalizar ainda mais o README conforme necessário para atender às necessidades específicas do seu projeto.
